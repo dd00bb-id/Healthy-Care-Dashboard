@@ -138,7 +138,7 @@ $userName = isset($_SESSION['userName']) ? $_SESSION['userName'] : '이름없음
             <!-- 푸터 -->
             <div class="footer">
                 <p>© 2024 Health Report Dashboard</p>
-                <p>Dong-eui University</p>
+                <p>University</p>
             </div>
         </div>
     </div>
