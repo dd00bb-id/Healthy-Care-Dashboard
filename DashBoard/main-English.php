@@ -11,7 +11,7 @@ $userName = isset($_SESSION['userName']) ? $_SESSION['userName'] : '이름없음
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dongui University Web Server Team Project</title>
+    <title>University Web Server Team Project</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="styles.css">
 
