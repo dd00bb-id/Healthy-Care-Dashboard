@@ -1,0 +1,36 @@
+
+td, th {
+    padding: 3px 5px 3px 5px;
+    
+border: 3px solid #ccc;
+}
+th {
+    text-align: center;
+    background-color: lightcyan;
+    font-weight: normal;
+}
+
+.box{
+    font-family: Malgun Gothic, Verdana, Geneva, Arial, Helvethca, sans-serif;
+    border: 1px, solid lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+.beautiful-text2 {
+    font-family: 'Poppins', sans-serif; 
+    
+    font-weight: 600; 
+    color: #333; 
+    text-align: left; 
+    padding: 10px; 
+}
+.beautiful-text {
+font-family: 'Lora', serif; 
+
+font-weight: 700; 
+color: #4A4A4A; 
+text-align: left; 
+padding: 15px; 
+border-bottom: 2px solid #ccc; 
+}
+     
