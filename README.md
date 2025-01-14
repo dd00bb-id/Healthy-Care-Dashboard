@@ -62,7 +62,7 @@
 
 ![스크린샷 2025-01-15 010112](https://github.com/user-attachments/assets/a7c1e6d3-95b9-48d2-b9e8-e3eea0657044)
 
-회원가입 성공후 페이지
+회원가입 성공후 아래의 페이지가 나오고 3초후 다시 로그인 페이지로 이동합니다
 
 ![스크린샷 2025-01-15 010154](https://github.com/user-attachments/assets/b69b0ad2-42f5-455b-bfef-fc850f98fe04)
 
