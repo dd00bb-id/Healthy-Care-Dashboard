@@ -73,7 +73,7 @@ $userName = isset($_SESSION['userName']) ? $_SESSION['userName'] : '이름없음
         
         <div class="dashboard-content">
             <header>
-                <h1>동의대학교 2학년 웹프로젝트 (HTML, CSS, JS, PHP, MySQL 기반 대시보드)</h1>
+                <h1>대학교 2학년 웹프로젝트 (HTML, CSS, JS, PHP, MySQL 기반 대시보드)</h1>
                 <button id="back-btn" class="back-btn">뒤로가기</button>
                 <select id="language-select" onchange="changeLanguage()">
                     <option value="ko">한국어</option>
