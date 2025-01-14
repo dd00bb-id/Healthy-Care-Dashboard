@@ -73,7 +73,7 @@ $userName = isset($_SESSION['userName']) ? $_SESSION['userName'] : '이름없음
         <!-- 대시보드 내용 -->
         <div class="dashboard-content">
             <header>
-                <h1>Dongui-Uni web project(HTML,CSS,JS,PHP,MySQL-based dashboard)</h1>
+                <h1>Uni web project(HTML,CSS,JS,PHP,MySQL-based dashboard)</h1>
                 <button id="back-btn" class="back-btn">Go backwards</button>
                 <select id="language-select" onchange="changeLanguage()">
                     <option value="en">English</option> <!--수정-->
